@@ -14,3 +14,7 @@
             4. Gold Tiers   -  They purchase > 5 times and spends > 4,200 dollars but <= 6,000 dollars.
 
 - There is also the analysis of percentage change of customer in each segments from the year before too.
+
+
+    ![Image](https://github.com/user-attachments/assets/24abd1fb-bcb4-4948-94f0-7dc1c07ec63f)
+
